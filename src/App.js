@@ -11,6 +11,7 @@ import {
 } from "react-router-dom";
 export default class App extends Component {
   pageSize = 8;
+  // pageSize = 8;
   state={
     progress:0
     }
